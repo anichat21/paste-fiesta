@@ -1,0 +1,525 @@
+ADOBE GENERAL TERMS (2020v1.1) Page 1 of 11
+GENERAL TERMS (2020v1.1)
+1. DEFINITIONS
+1.1 “Adobe” means one or both of the following:
+(A) If the Products and Services are licensed in the United States (including its territories and possessions and
+military bases wherever located), Canada, or Mexico: Adobe Inc., located in San Jose, California.
+(B) If the Products and Services are licensed in any other country(ies): Adobe Systems Software Ireland Limited,
+located in Ireland.
+1.2 “Adobe Partner” means an entity that is appointed by Adobe to process orders from Customers or a reseller of
+Products and Services.
+1.3 “Adobe Technology” means technology owned by Adobe or licensed to Adobe by a third-party (including the
+Products and Services, Reports, software tools, algorithms, software (in source and object forms), user interface
+designs, architecture, toolkits, plug-ins, objects and Documentation, network designs, processes, know-how,
+methodologies, trade secrets, and any related intellectual property rights throughout the world), and feedback
+made to Adobe that are incorporated into any of the foregoing (which are hereby irrevocably assigned to Adobe),
+as well as any of the modifications, or extensions of the above, whenever or wherever developed.
+1.4 “Affiliate” means, for a Party, any other entity that controls, is controlled by, or under common control with, the
+Party. For the purposes of this definition, the term “control” meansthe direct or indirect power to direct the affairs
+of the other entity through at least 50% of the shares, voting rights, participation, or economic interest in this
+entity.
+1.5 “Agreement” means these General Terms, the applicable Product Specific Licensing Terms, and the Sales Order,
+together with any exhibits included with the applicable Sales Order.
+1.6 “Claim” means a claim, action, complaint, or legal regulatory body, administrative or judicial proceeding filed
+against a Party.
+1.7 “Computer” means a virtual or physical device for storing or processing data, such as servers, desktop computers,
+laptops, mobile devices and hardware products. Where a device contains more than one virtual environment
+(including virtual machines and virtual processors), each virtual environment will be counted as a separate
+Computer.
+1.8 “Confidential Information” means non-public or proprietary information about a disclosing Party’s business
+related to technical, commercial, financial, employee, or planning information that is disclosed by the disclosing
+Party to the other Party in connection with this Agreement, and (A) is identified in writing as confidential at the
+time of disclosure, whether in printed, textual, graphic, or electronic form; or (B) is not identified as confidential
+at the time of disclosure, but is by its nature confidential or the receiving Party knows, or ought reasonably to
+know, is confidential (which may include Customer Content). Any Adobe Technology and the terms and conditions
+of this Agreement will be deemed Confidential Information of Adobe without any marking or further designation.
+Any Customer Data will be deemed Confidential Information of Customer without any marking or further
+designation. “Confidential Information” does not include information that: (1) has become public knowledge
+through no fault of the receiving Party; (2) was known to the receiving Party, free of any confidentiality obligations,
+before its disclosure by the disclosing Party; (3) becomes known to the receiving Party, free of any confidentiality
+obligations, from a source other than the disclosing Party; or (4) is independently developed by the receiving Party
+without use of Confidential Information.
+1.9 “Customer” means the entity identified in the Sales Order as “Customer” or otherwise identified in the Sales Order
+as the end user customer.
+1.10 “Customer Content” means any material, such as audio, video, text, or images, that is imported into the Ondemand Services or Managed Services by or on behalf of Customer in connection with Customer’s use of the
+Products and Services, including for collaboration, content delivery, digital publishing, targeted advertising, or
+indexing.
+ADOBE GENERAL TERMS (2020v1.1) Page 2 of 11
+1.11 “Customer Data” means any information that is imported by or on behalf of Customer into the On-demand
+Services or Managed Services from Customer’s internal data stores or other third-party data providers, or is
+collected via the Distributed Code, in connection with Customer’s use of the Products and Services.
+1.12 “Customer Site” means any current or future website or application that is owned and operated by Customer, or
+is hosted or operated by a third-party or Adobe on Customer's behalf, and that contains a privacy policy or terms
+of use governing data collection practices that Customer controls.
+1.13 “Data Privacy Claim” means a Claim arising from (a) a Party’s failure to comply with the applicable data security
+and privacy laws as clarified by the roles, responsibilities and obligations set forth in the applicable Data Protection
+Terms or (b) Customer’s failure to comply with section 4.4 (Third-Party Providers) or Customer’s terms of use and
+privacy policy.
+1.14 “Data Protection Terms” means the applicable Data Protection Terms or E.U. Data Processing Agreement found
+at https://www.adobe.com/legal/terms/enterprise-licensing/data-protection.html or as otherwise agreed by the
+Parties.
+1.15 “Distributed Code” means HTML tags, JavaScript code, object code, plugins, SDKs, APIs, or other code provided by
+Adobe for use of the On-demand Services or Managed Services.
+1.16 “Documentation” means the applicable technical specification and usage documentation for the Products and
+Services as such materials are made generally available on www.adobe.com. “Documentation” does not include
+any third-party content posted to https://www.adobe.com, content published in user forums hosted or moderated
+by Adobe, content related to any future functionality, or communications exchanged between Adobe and
+Customer, unless such communications are specifically incorporated by reference within the applicable Sales
+Order.
+1.17 “Enterprise Licensing Terms” means these General Terms and the applicable Product Specific Licensing Terms.
+1.18 “Indemnified Party” means (i) Customer when Adobe is the Indemnifying Party and (ii) Adobe when Customer is
+the Indemnifying Party.
+1.19 “Indemnified Technology” means On-demand Services, Managed Services or On-premise Software (as applicable),
+paid for by Customer.
+1.20 “Indemnifying Party” means (i) Adobe with respect to Claims (a) arising from Adobe’s failure to comply with the
+applicable data security and privacy laws as clarified by the roles, responsibilities and obligations set forth in the
+applicable Data Protection Terms or (b) arising under section 8.2; and (ii) Customer with respect to Claims arising
+from Customer’s failure to comply with (a) the applicable data security and privacy laws as clarified by the roles,
+responsibilities and obligations set forth in the applicable Data Protection Terms, (b) section 4.4 (Third-Party
+Providers); or (c) Customer’s terms of use and privacy policy.
+1.21 “License Term” means the earlier of the duration of the license for Products and Services as stated in the Sales
+Order, or any shorter term arising from a termination or expiration of this Agreement.
+1.22 “Managed Services” means the technology services hosted by or on behalf of Adobe and provided to Customer as
+a dedicated instance, as set out in the Sales Order.
+1.23 “On-demand Services” means the technology services hosted by or on behalf of Adobe and provided to Customer
+as a shared instance, as set out in the Sales Order.
+1.24 “On-premise Software” means the Adobe software that is deployed by or on behalf of Customer on hardware
+designated by Customer, as set out in the Sales Order.
+1.25 “Party” means Adobe or Customer, as applicable.
+1.26 “Products and Services” means the On-premise Software, On-demand Services, Managed Services, or Professional
+Services, as set out in the Sales Order.
+1.27 “Product Specific Licensing Terms” or “PSLT” means the Product Specific Licensing Terms document that describes
+the additional licensing terms for specific Products and Services.
+1.28 “Professional Services” means any consulting, training, implementation, or technical services provided by Adobe
+to Customer, as set out in the Sales Order.
+ADOBE GENERAL TERMS (2020v1.1) Page 3 of 11
+1.29 “Report” means any graphical or numerical display of Customer Data that contains Adobe’s proprietary design,
+look and feel, and is generated by the On-demand Services or Managed Services.
+1.30 “Sales Order” means the sales order form, statement of work, or other written document for the Products and
+Services that is either (A) executed between Adobe and Customer; or (B) if no such documents are executed
+between Adobe and Customer and Customer is purchasing through an Adobe Partner, executed between
+Customer and the Adobe Partner.
+1.31 “Sensitive Personal Data” means an individual’s financial information, sexual preferences, medical or health
+information protected under any health data protection laws, biometric data (for purposes of uniquely identifying
+an individual), personal information of children protected under any child protection laws (such as the personal
+information defined under the US Children’s Online Privacy Protection Act (“COPPA”)) and any additional types of
+information included within this term or any similar term (such as “sensitive personal information” or “special
+categories of personal information”) as used in applicable data protection or privacy laws.
+1.32 “User” means an individual (either an employee or temporary worker of Customer) who may use or access the
+Products and Services on behalf of Customer.
+2. PAYMENT OF FEES
+This section 2 applies only if Customer orders the Products and Services directly from Adobe. If Customer orders the
+Products and Services from an Adobe Partner, payment terms are agreed between Customer and the Adobe Partner.
+2.1 Payment. Customer must pay the fees according to the payment terms in the Sales Order. All invoices will only be
+delivered electronically to Customer. Adobe may charge interest at a monthly rate equal to the lesser of 1% per
+month or the maximum rate permitted by applicable law on any overdue fees, from the due date until the date the
+overdue amount (plus applicable interest) is paid in full. Any fees that are unpaid as of the date of termination or
+expiration will be immediately due and payable. Customer agrees to provide clear indication within its form of
+payment, or emailing to sjar@adobe.com, as to which invoices payment should be applied no later than the date
+of payment. If Customer is not a publicly-traded corporation, upon Adobe's request, Customer will provide the
+necessary financial documents to allow Adobe to ascertain the credit-worthiness of Customer.
+2.2 Failure to Pay. If Customer fails to pay any amount due under this Agreement according to the payment terms in
+the Sales Order (and not disputed as described in section 2.3), Adobe will send Customer a reminder notice. If
+Customer fails to pay within 15 days of the date of the reminder notice, Adobe may, in its sole discretion, terminate
+the applicable Sales Order or suspend or restrict the provision of any and all Products and Services.
+2.3 Disputes. If Customer believes in good faith that Adobe has incorrectly billed Customer, Customer must contact
+Adobe in writing within 30 days of the invoice date, specifying the error. Unless Customer has correctly notified
+Adobe of the dispute, Customer must reimburse Adobe’s reasonable collection costs. Customer must pay the
+undisputed portions of Adobe’s invoice as required by this Agreement.
+2.4 Taxes. Prices do not include applicable taxes. Adobe will invoice Customer for any applicable taxes, and Customer
+must pay these taxes. Where applicable, Customer must provide a tax-exemption claim to Adobe before placing an
+order. If Customer is required to withhold income taxes from its payment to Adobe, Customer agrees to send Adobe
+an official tax receipt within 60 days of payment to Adobe.
+3. DELIVERY
+On-premise Software is deemed to be delivered and accepted by Customer on the earlier of the date the On-premise
+Software is made available for electronic download or, physical shipment, if applicable. On-demand Services and Managed
+Services are deemed to be delivered and accepted by Customer on the License Term start date.
+4. LICENSE AND RESTRICTIONS
+4.1 License Grant for On-demand Services and Managed Services. Subject to the terms and conditions of this
+Agreement, Adobe grants Customer for its direct beneficial business purposes, during the License Term, a nontransferable, non-exclusive license, to:
+(A) permit Users to access the On-demand Services and Managed Services and where applicable, Reports,
+through the applicable interfaces;
+(B) install, implement, and use the Distributed Code on Customer Sites;
+ADOBE GENERAL TERMS (2020v1.1) Page 4 of 11
+(C) develop and test Customer Customizations (as that term is defined in the applicable PSLT) to evaluate
+potential configurations of the On-demand Services or Managed Services; and
+(D) use the On-demand Services and Managed Services in accordance with the Documentation.
+Unless otherwise specifically limited in the Sales Order, User login IDs and passwords will be provided to Customer
+in a quantity mutually agreed upon by Customer and Adobe.
+4.2 License Grant for On-premise Software. Subject to the terms and conditions of this Agreement, Adobe grants
+Customer for its direct beneficial business purposes, during the License Term, a non-transferable, non-exclusive
+license to:
+(A) install and use the On-premise Software in accordance with the Documentation on Computers, for the
+platforms and quantities set out in the Sales Order; and
+(B) make a reasonable number of copies of the On-premise Software for archival purposes and install and use
+the copies only when the primary copy has failed or is destroyed. Customer may also install copies of the
+On-premise Software in a disaster recovery environment, on a cold backup basis, for use solely in disaster
+recovery, and not for production, development, evaluation, or testing. For purposes of the prior sentence,
+cold backup basis means that the backup copies are completely disconnected from any use environment and
+not receiving automatic data updates, and those backup copies require a manual activation process to pick
+up the use environment load during the failure of the primary copies.
+4.3 License Conditions. Except to the extent expressly permitted under this Agreement, Customer agrees as a
+condition of the licenses that it must not:
+(A) use the Products and Services in (1) violation of any applicable law or regulation (including, where applicable,
+COPPA and FISMA), or in connection with unlawful material (such as material that violates any obscenity,
+defamation, harassment, privacy, publicity or intellectual property laws); or (2) a manner that would cause a
+material risk to the security or operations of Adobe or any of its customers, or to the continued normal
+operation of other Adobe customers.
+(B) copy, use, distribute, republish, download, display, transmit, sell, rent, lease, host, or sub-license the Products
+and Services;
+(C) offer, use, or permit the use of the Products and Services in a computer service business, third-party
+outsourcing service, on a membership or subscription basis, on a service bureau basis, on a time-sharing
+basis, as part of a hosted service, or on behalf of any third-party;
+(D) attempt to interact with the operating system underlying the On-demand Services and Managed Services, or
+modify, create derivative works of, adapt, translate, reverse engineer (including monitoring or accessing the
+inputs and output flowing through a system or an application), decompile, or otherwise attempt to discover
+within any Adobe Technology, the source code, data representations, or underlying algorithms, processes
+and methods. (This restriction will not apply to the extent it limits any non-waivable right Customer may
+enjoy under applicable law);
+(E) remove, obscure, or alter any proprietary notices associated with the Products and Services (including any
+notices in Reports);
+(F) use any software components, modules, or other services that may be delivered with the Products and
+Services, but which are not licensed to Customer and identified in the Sales Order;
+(G) decouple any components of the On-premise Software for use on different Computers as the On-premise
+Software is designed and provided to Customer for use as a single product; or
+(H) share its login IDs and passwords, or allow use of the same login ID simultaneously by two or more Users,
+and Customer is responsible for unauthorized access to its login IDs and passwords.
+Adobe reserves all other rights not expressly granted in this Agreement.
+4.4 Third-Party Providers. Customer is responsible for complying with any applicable terms and conditions of any
+third-party data, products, services, and platforms used by Customer in conjunction with the Products and Services.
+4.5 Regional Service Limitations. Unless use in a Restricted Country is specifically authorized in the Sales Order, or
+ADOBE GENERAL TERMS (2020v1.1) Page 5 of 11
+the Products and Services are part of the Limited Subset of On-demand Services listed by Adobe at
+https://www.adobe.com/legal/terms/enterprise-licensing/rsl-ww.html or other similar country-specific licensing
+terms document (incorporated herein by reference), Customer is not permitted to use or allow its Users to use
+the On-demand Services and Managed Services in any Restricted Country. “Restricted Country” means mainland
+China, Russia and any other country where access or usage is restricted by local laws.
+5. THIRD-PARTY ACCESS
+5.1 Use by Affiliates. Where specified in a Sales Order, Customer may allow its Affiliates to use and access the Products
+and Services.
+5.2 Outsourcing and Third-Party Access. Customer may allow a third-party contractor to operate, use or access the
+Products and Services solely on Customer’s behalf, provided such use or access is only for Customer’s direct
+beneficial business purposes. Customer is responsible for ensuring that any third-party or Affiliate operating, using
+or accessing the Products and Services on Customer’s behalf complies with the terms of this Agreement. Customer
+is responsible for and liable for the acts or omissions of such Affiliate or third-party as if they were Customer’s acts
+or omissions.
+6. CUSTOMER CONTENT AND CUSTOMER DATA
+6.1 Ownership. As between Adobe and Customer, Customer owns (or where applicable, must ensure it has a valid
+license to) the Customer Data and Customer Content, subject to Adobe’s underlying intellectual property in the
+Adobe Technology.
+6.2 Permitted Use.
+(A) Customer grants Adobe and its Affiliates a non-exclusive, worldwide, royalty-free license to use, copy,
+transmit, sub-license, index, store, and display Customer Data and Customer Content : (1) to the extent
+necessary to perform its obligations (including, but not limited to, developing, modifying, improving,
+supporting, customizing, and operating the Products and Services) or enforce its rights under this Agreement;
+or (2) where required or authorized by law.
+(B) Adobe may use, copy, transmit, index and model Customer Data and Customer Content for the purpose of (1)
+developing, improving or customizing the Products and Services, and (2) publishing, displaying and distributing
+any anonymous information (i.e., information where neither Customer nor its site visitors are capable of being
+identified which may be aggregated with other customers’ anonymous information) derived from Customer
+Data and Customer Content (such as, but not limited to, web browser, screen resolution, mobile device-type
+information, image resolution and number of pages in a document).
+6.3 Responsibility.
+(A) Customer will conspicuously display a privacy policy that discloses Customer’s privacy practices, identifies the
+collection, use and sharing of information gathered in connection with the Products and Services, including
+types of data collected, and offers an opportunity to opt out of (or opt-in if applicable law requires) the
+collection, use and sharing of data gathered in connection with the Products and Services.
+(B) Customer retains complete control over the installation and configuration of Distributed Code, and all
+Customer Sites and Customer Content. Customer must comply with its privacy policy, and is responsible for
+ensuring that all Customer Sites used with the On-demand Services or Managed Services and all Customer
+Data and Customer Content comply with all applicable laws and regulations. Customer will take reasonable
+steps to identify and promptly remove any Customer Data or Customer Content that violatesthe requirements
+of section 4.3(A) (“Unlawful Content”), in accordance with applicable laws and regulations. If there is Unlawful
+Content, Adobe may suspend services and remove the Unlawful Content.
+(C) Sensitive Personal Data. Customer agrees not to collect, process, or store any Sensitive Personal Data using
+the On-demand Services or Managed Services. Customer agrees not to transmit, disclose, or make available
+Sensitive Personal Data to Adobe or Adobe’s third-party providers.
+(D) Professional Services. For Professional Services, Customer will not provide access to Customer Data to Adobe
+unless specifically agreed to by Adobe in writing.
+6.4 Consumer Generated Content. If content generated by consumers of Customer is uploaded to Adobe’s Ondemand Services or Managed Services, the following terms apply:
+ADOBE GENERAL TERMS (2020v1.1) Page 6 of 11
+(A) Adobe does not review all content uploaded to Adobe On-demand Services and Managed Services, but Adobe
+may use available technologies or processes to screen for certain types of illegal content (for example, child
+pornography) or other abusive content or behavior (for example, patterns of activity that indicate spam or
+phishing); and
+(B) Adobe may access or disclose information about Customer, its consumers, or Customer’s use of the Ondemand Services and Managed Services when it is required by law or regulation (such as when Adobe
+receives a valid subpoena or search warrant).
+6.5 Data Retention. With respect to On-demand Services, Customer Data may be permanently deleted from Adobe’s
+servers 25 months from the date of its collection or receipt, unless specified otherwise in the respective PSLT.
+6.6 Usage Analytics. Adobe may develop, modify, improve, support, customize and operate its products and services
+based on Customer’s use, as applicable, of any Products and Services.
+7. CONFIDENTIALITY
+7.1 Confidentiality. The receiving party will treat Confidential Information with reasonable care and disclose only on
+a need to know basis or as permitted under this Agreement. The receiving party will only use Confidential
+Information for the purposes of performing its obligations or as permitted under this Agreement. However, a
+receiving party may disclose Confidential Information: (a) if approved by the other party in writing; (b) if required
+by law or regulation; (c) in the event of dispute between the parties, as necessary to establish the rights of either
+party; or (d) as necessary to provide the Products and Services licensed by Customer. In the case of (b) and (c),
+the disclosing party will provide reasonable advance notice to the other party and provide reasonable assistance
+to limit the scope of the disclosure unless prohibited by law or regulation.
+7.2 For the purpose of this section 7 (Confidentiality) and the definition of “Confidential Information”, a reference to
+a “party” means a Party and its Affiliates. The receiving party is responsible for ensuring that its representatives
+and Affiliates fully comply with the obligations of the receiving party under this section.
+8. INDEMNITIES
+8.1 Data Privacy Claims.
+(A) Cooperation and Mutual Assistance. Both Parties will co-operate in good faith to avoid and mitigate Data
+Privacy Claims keeping in consideration the rights of affected data subjects and the reputation and brand of
+each Party. Each Party agrees to mitigate its losses in relation to any such Data Privacy Claims. In the event
+of a Data Privacy Claim, both Parties agree to provide each other reasonable assistance in investigating,
+mitigating, and resolving such Data Privacy Claim. Any information and materials exchanged or discovered
+in the course of investigations, mitigation and resolution will be considered Confidential Information of the
+disclosing Party as set forth in section 1.8(B) and may not be disclosed by the receiving Party except as
+permitted in section 7, Confidentiality.
+(B) Data Privacy Claims. Indemnifying Party will at its expense indemnify the Indemnified Party against those
+losses of the Indemnified Party set out below in this section 8.1(B) to the extent directly attributable to a
+third-party Data Privacy Claim against the Indemnified Party:
+(1) settlement amounts negotiated by Indemnifying Party (to the extent Indemnifying Party is permitted
+to settle);
+(2) damages finally awarded by a court;
+(3) administrative fines or penalties imposed by a regulatory authority;
+(4) reasonable attorney’s fees,
+(5) reasonable out-of-pocket expenses associated with satisfying applicable statutory requirements
+related to forensic analysis, credit monitoring, and notifying affected individuals of the incident giving rise
+to the Data Privacy Claim, as applicable.
+(C) Exception. Indemnifying Party will have no liability for any Data Privacy Claim to the extent such Claim arises
+from any act or omission of Indemnified Party that impedes or prevents Indemnifying Party’s ability to
+comply with applicable data security and privacy laws.
+ADOBE GENERAL TERMS (2020v1.1) Page 7 of 11
+8.2 Intellectual Property Claims
+(A) Adobe’s Obligations. Adobe will defend, at its expense, any third-party Claim against Customer made during
+the License Term to the extent the Claim alleges that (1) the Indemnified Technology directly infringes the
+third-party’s patent, copyright, or trademark; or that (2) Adobe has misappropriated the third-party’s trade
+secret (“Infringement Claim”). Adobe will pay any damages finally awarded by a court of competent
+jurisdiction (or settlement amounts agreed to in writing by Adobe).
+(B) Adobe’s Response. In the defense or settlement of any Infringement Claim, Adobe may , at its sole option
+and expense:
+(1) procure for Customer a license to continue using the Products and Services under the terms of this
+Agreement;
+(2) replace or modify the allegedly infringing Products and Services to avoid the infringement; or
+(3) where (1) or (2) are not reasonably or commercially feasible, terminate Customer’s license and access
+to the Products and Services (or its infringing part) and refund:
+(a) in the case of Products and Services licensed for a limited term, any prepaid unused fees as
+of the date of termination; or
+(b) in the case of On-premise Software licensed for a perpetual term, an amount equal to the
+pro-rata value of the On-premise Software, calculated by depreciating the fee paid by Customer for
+the On-premise Software on a straight-line basis using a useful life of 36 months from the date of
+initial delivery of the On-premise Software,
+but only if Customer destroys all copies of the alleged infringing Products and Services from all computer
+systems on which it was stored.
+(C) Exceptions. Adobe will have no liability for any Infringement Claim that arises from any:
+(1) use of the Products and Services in violation of this Agreement;
+(2) modification of the Products and Services by Customer (or any third-party acting on Customer’s
+behalf);
+(3) failure by Customer to install the latest updated version of the Products and Services as requested by
+Adobe to avoid infringement; or
+(4) third-party products, services, hardware, software, or other materials, or combination of these with
+the Products and Services, if the Products and Services would not be infringing without this
+combination.
+8.3 Conditions. Indemnifying Party, as applicable, will have no liability for any Claim under section 8.1 or 8.2 that
+arises from any failure of Indemnified Party to:
+(A) notify Indemnifying Party in writing of the Claim promptly upon the earlier of learning of or receiving a notice
+of it, to the extent that Indemnifying Party is prejudiced by this failure;
+(B) provide Indemnifying Party with reasonable assistance requested by Indemnifying Party for the defense or
+settlement (as applicable) of the Claim;
+(C) provide Indemnifying Party with the exclusive right to control and the authority to settle the Claim; or
+(D) refrain from making admissions or statements about the Claim without Indemnifying Party’s prior written
+consent.
+8.4 Sole and Exclusive Remedy. The remedies in this section 8 (Indemnities) are, in addition to any termination or
+suspension remedies expressly set forth in this Agreement, Indemnified Party’s sole and exclusive remedies and
+Indemnifying Party’s sole liability regarding the subject matter giving rise to any Claim, including any claims
+regarding confidentiality obligations involving Customer Data and Customer Content that may arise from an
+incident resulting in a Data Privacy Claim (notwithstanding anything to the contrary in section 9.3(B)).
+9. LIMITATION OF LIABILITY
+ADOBE GENERAL TERMS (2020v1.1) Page 8 of 11
+9.1 Subject to section 9.3, neither Party will be liable to the other Party for any special, indirect, moral,
+consequential, incidental, punitive, or exemplary damages; loss of profits; loss of reputation, use, or revenue;
+or interruption of business. This section 9.1 does not apply to those amounts expressly recoverable by the
+Indemnified Party under section 8 regardless of how such amounts are classified for damages purposes.
+9.2 Subject to section 9.3, the maximum aggregate liability of each Party for all Claims under this Agreement is
+limited to an amount equal to the aggregate of the fees payable by Customer under the applicable Sales Order
+during the 12 months before the initial Claim, provided however, each Party’s maximum aggregate liability for
+all Claims under section 8 is limited to the greater of $3,000,000.00 or two times the aggregate of the fees
+payable by Customer under the applicable Sales Order.
+9.3 Sections 9.1 and 9.2 (Limitation of Liability):
+(A) apply regardless of the form or source of Claim or loss, including negligence, whether the Claim or loss was
+foreseeable, and whether a Party has been advised of the possibility of the Claim or loss;
+(B) do not apply to any breach of section 7 (Confidentiality), Customer’s liability for Claims arising out of use
+of Adobe Technology beyond the scope of any license granted under this Agreement, or Customer’s failure
+to pay any amounts owing to Adobe under this Agreement.
+10. WARRANTIES
+10.1 Limited Warranty and Remedy for On-demand Services and Managed Services. Adobe warrants that the Ondemand Services and Managed Services, as delivered to Customer, will substantially conform to the applicable
+Documentation during the License Term, to the extent that the On-demand Services and Managed Services
+constitute Indemnified Technology. Customer must notify Adobe of a claim under this warranty within 45 days
+of the date on which the condition giving rise to the claim first appeared. To the extent permitted by law,
+Customer’s sole and exclusive remedy and Adobe’s sole liability under or in connection with this warranty will
+be a replacement of the Distributed Code (as applicable), or if replacement is not commercially reasonable, a
+termination of the applicable On-demand Service or Managed Service and a refund of any pre-paid fees for the
+unused portion of the license (calculated at the date of termination) for the applicable On-demand Service or
+Managed Service.
+10.2 Limited Warranty and Remedies for On-premise Software. Adobe warrants that the On-premise Software will
+substantially conform to the applicable Documentation for 120 days following the delivery of the On-premise
+Software,to the extent that the On-premise Software constitutes Indemnified Technology. Customer must make
+these warranty claims to Adobe within this 120-day period. To the extent permitted by law, Customer’s sole and
+exclusive remedy and Adobe’s sole liability under or in connection with this warranty will be, at Adobe’s option,
+a replacement of the On-premise Software, or refund of any pre-paid fees for the unused portion of the license
+(calculated at the date of termination) for the On-premise Software.
+10.3 Implied Warranties. To the maximum extent permitted by law and except for the express warranties in this
+Agreement, Adobe provides the Products and Services on an "as-is" basis. Adobe, its Affiliates, and third-party
+providers disclaim and make no other representation or warranty of any kind, express, implied or statutory,
+including representations, guarantees or warranties of merchantability, fitness for a particular purpose, title,
+non-infringement, or accuracy. Customer acknowledges that (A) neither Adobe, its Affiliates nor its third-party
+providers controls Customer equipment or the transfer of data over communications facilities (including the
+Internet); (B) the Products and Services may be subject to limitations, interruptions, delays, cancellations, and
+other problems inherent in the use of the communications facilities (including search engines and social media
+channels); and (C) it is fully responsible to install appropriate security updates and patches. Adobe, its Affiliates,
+and its third-party providers are not responsible for any interruptions, delays, cancellations, delivery failures,
+data loss, content corruption, packet loss, or other damage resulting from these problems.
+11. LICENSE COMPLIANCE
+11.1 Adobe may, at its expense and no more than once every 12 months, appoint its own personnel or an independent
+third-party (or both) to verify that Customer’s use, installation, or deployment of the Products and Services (or
+other Adobe Technology used in conjunction with the Products and Services) comply with the terms of this
+Agreement.
+11.2 For On-premise Software and any Distributed Code, the verification will require Customer to provide within 30
+days of request (A) raw data from a software asset management tool of all On-premise Software and Distributed
+ADOBE GENERAL TERMS (2020v1.1) Page 9 of 11
+Code installed or deployed by or at the direction of Customer, including installation or deployment on servers
+owned by Customer or provided by third parties; (B) all valid payment documentation for all On-premise Software
+and Distributed Code; and (C) any information reasonably requested by Adobe.
+11.3 Any verification may include an onsite audit conducted at Customer’s relevant places of business upon 7 days’
+prior notice, during regular business hours, and will not unreasonably interfere with Customer’s business activities.
+11.4 If the verification shows that Customer, its Affiliates or third-party contractors of Customer or its Affiliates are
+deploying, installing or using the Products and Services (or other Adobe Technology used in conjunction with the
+Products and Services): (A) beyond the quantity that was legitimately licensed; or (B) in any way not permitted
+under this Agreement, so that additional fees apply, without limiting Adobe’s rights at law or in equity, Customer
+must pay the additional license fees and any applicable related maintenance and support fees within 30 days of
+invoice date. If use, deployment, or installation exceeds 5% of that which is permitted under this Agreement,
+Customer must pay Adobe’s reasonable costs of conducting the verification, in addition to paying the additional
+fees.
+12. PROFESSIONAL SERVICES
+12.1 License to Deliverables.
+(A) Without limiting or modifying any license granted to Customer for the On-premise Software, On-demand
+Services or Managed Services, Adobe grants Customer a non-exclusive, non-sublicensable and nontransferable license to use the materials developed and provided to Customer by Adobe in performing the
+Professional Services (“Deliverables”) solely in connection with use of the Products and Services for
+Customer’s direct beneficial business purposes during the License Term.
+(B) Adobe retains all rights, title and interest (including intellectual property rights) in and to the Deliverables.
+To the extent that Customer participates in the creation or modification of any Adobe Technology or
+Deliverables, Customer irrevocably assigns to Adobe all right, title and interest (including intellectual property
+rights) in the Adobe Technology or Deliverables. Adobe is free to use the residuals of Confidential Information
+for any purpose, where “residuals” means that Confidential Information disclosed in non-tangible form that
+may be retained in the memories of representatives of Adobe.
+12.2 Employment Taxes and Obligations. Adobe is responsible for all taxes and any employment obligations arising
+from its employment of personnel and contractors to perform the Professional Services.
+12.3 Warranty. Adobe warrants the Professional Services will be performed in a professional and workmanlike manner.
+Customer must notify Adobe in writing of any breach of this warranty within 30 days of performance of such
+Professional Services. To the extent permitted by law, Customer’s sole and exclusive remedy for breach of this
+warranty and Adobe’s sole liability under or in connection with this warranty will be re-performance of the relevant
+Professional Services.
+12.4 Use of Subcontractors. Customer agrees that Adobe may use subcontractors in the performance of the
+Professional Services. Where Adobe subcontracts any of its obligations concerning the Professional Services,
+Adobe will not be relieved of its obligations to Customer under this Agreement.
+13. TERM AND TERMINATION
+13.1 Term. This Agreement applies to each of the Products and Services from the effective date of the Sales Order until
+the expiration of the applicable License Term or the term for Professional Services, unless terminated earlier under
+this Agreement.
+13.2 Termination for Cause
+(A) Material Breach by Either Party. If either Party commits a material breach of this Agreement, the nonbreaching Party may give written notice describing the nature and basis of the breach to the breaching Party.
+If the breach is not cured within 30 days of the notice date, the non-breaching Party may immediately
+terminate this Agreement, in whole or in part.
+(B) Other Breaches. Adobe may terminate this Agreement, in whole or in part, immediately upon written notice
+to Customer, if required by law; or Customer breaches section 4.3 (D) of these General Terms.
+13.3 Effect of Termination or Expiration.
+ADOBE GENERAL TERMS (2020v1.1) Page 10 of 11
+(A) Upon termination or expiration of this Agreement or any License Term for the Products and Services:
+(1) the licenses and associated rights to the Products and Services will immediately terminate;
+(2) Customer must, at its expense: (a) remove and delete all copies of the On-premise Software and
+Distributed Code; and (b) remove all references and links to the On-demand Services or Managed
+Services from the Customer Sites. Some or all of the Products and Services may cease to operate
+without prior notice upon expiration or termination of the License Term; and
+(3) Customer Data and Customer Content stored within the On-demand Services will be available to
+Customer for 30 days after the termination or expiration in the same format then available within the
+reporting interface(s).
+(B) Customer will be liable for any fees for any On-demand Services and Managed Services that are still in use or
+which remain active after termination or expiration of this Agreement. These fees will be invoiced to
+Customer at the rate set out in the Sales Order.
+(C) If Adobe reasonably determines that Customer’s deployment of the On-demand Services or Managed
+Services is causing a material risk to the security or operations of Adobe or any of its customers or to the
+continued normal operation of other Adobe customers (each a “Deployment Risk”), then Adobe may, at any
+time, upon written notice to Customer:
+(1) immediately suspend Customer’s access, in whole or in part, to the On-demand Services or Managed
+Services causing the Deployment Risk, until such Deployment Risk is resolved; or
+(2) as a final option, where Adobe has first used all commercially reasonable efforts to mitigate the
+Deployment Risk, Adobe may terminate the affected On-demand Services or Managed Services.
+13.4 Survival. The termination or expiration of this Agreement will not affect any provisions of this Agreement which
+by their nature survive termination or expiration, including the provisions that deal with the following subject
+matters: definitions, payment obligations, confidentiality, term and termination, effect of termination, intellectual
+property ownership, permitted use, license compliance, limitation of liability, privacy, usage analytics and the
+“General Provisions” section in these General Terms.
+14. GENERAL PROVISIONS
+14.1 Assignment.
+(A) Customer may assign this Agreement in its entirety to a surviving person or entity under a merger or
+acquisition of Customer, upon written notice to Adobe if the assignment does not expand the scope of the
+license granted in the Products and Services and if the assignee agrees in writing, for the benefit of Adobe,
+to assume all of Customer’s obligations under this Agreement.
+(B) Adobe may assign this Agreement or delegate its obligations, in whole or in part, to its Affiliates or in
+connection with a merger, change of control, or acquisition of Adobe or the assets of the business to which
+this Agreement relates, upon written notice to Customer.
+(C) Except as provided in this section 14.1 (Assignment), Customer may not assign, voluntarily, by operation of
+law or otherwise, any rights or obligations under this Agreement without the prior, written consent of Adobe.
+(D) Any (attempted) assignment in derogation of this section will be null and void.
+14.2 Governing Law, Venue. This Agreement is governed by and construed under the laws of the state of California,
+without regard to any conflict of law rules or principles, and excluding the application of the United Nations
+Convention on Contracts for the International Sale of Goods. The Parties irrevocably submit to the exclusive
+jurisdiction of the courts of competent jurisdiction in the County of Santa Clara, State of California, provided
+however, Adobe will have the right to pursue Claims against Customer in any other jurisdiction worldwide to
+enforce its rights under this Agreement or to enforce its intellectual property rights.
+14.3 Force Majeure. Neither Party is liable for failure to perform its obligations under this Agreement (except for any
+payment obligations) to the extent that performance is delayed, prevented, restricted or interfered with as a result
+of any causes beyond its reasonable control, including acts of God, terrorism, labor action, fire, flood, earthquake,
+denial ofservice attacks and other malicious conduct, utility failures, power outages, or governmental acts, orders,
+or restrictions.
+ADOBE GENERAL TERMS (2020v1.1) Page 11 of 11
+14.4 Injunctive Relief. Actual or threatened breach of certain sections of this Agreement (such as, without limitation,
+provisions on intellectual property (including ownership), license, privacy, data protection and confidentiality) may
+cause immediate, irreparable harm thatis difficult to calculate and cannot be remedied by the payment of damages
+alone. Either Party will be entitled to seek preliminary and permanent injunctive relief and other equitable relief
+for any such breach.
+14.5 Notices. Any notice given under this Agreement must be in writing by email to the following addresses (or
+addresses notified in writing by either Party): (A) to Adobe at ContractNotifications@adobe.com and (B) to
+Customer at Customer’s email address stated on the Sales Order, or if Customer’s Sales Order is with an Adobe
+Partner, at Customer’s registered address.
+14.6 No Agency. Nothing in this Agreement is intended to constitute a fiduciary relationship, agency, joint venture,
+partnership, or trust between the Parties. No Party has authority to bind the other Party.
+14.7 Customer’s Purchase Order. Any terms or conditions in Customer’s purchase order or any other related
+documentation submitted by or on behalf of Customer to Adobe (or any other party, such as an Adobe Partner)
+do not form part of this Agreement and are void, unless otherwise expressly agreed in writing and signed by both
+Customer and Adobe.
+14.8 Waiver, Modification. Neither Party’s waiver of the breach of any provision constitutes a waiver of that provision
+in any other instance. This Agreement may not be modified nor any rights under it waived, in whole or in part,
+except in writing signed by the Parties.
+14.9 Order of Precedence. The Sales Order will prevail over the applicable Product Specific Licensing Terms, which will
+prevail over the General Terms (to the extent of any inconsistency).
+14.10 Entire Agreement. This Agreement contains the entire understanding of the Parties relating to the subject matter
+and supersedes all earlier agreements, understandings, proposals, discussions, negotiations, representations and
+warranties, both written and oral, regarding the subject matter.
+14.11 Counterpart. This Agreement (or a component) may be executed in one or more counterparts, each of which
+constitutes an original and all of which taken together constitutes the same agreement. Each Party may sign this
+Agreement using an electronic or handwritten signature, which are of equal effect, whether on original or
+electronic copies.
+14.12 Severability. If any term of this Agreement is held invalid or unenforceable for any reason, the remainder of the
+term and this Agreement will continue in full force and effect.
+14.13 Trade Rules. Customer acknowledges that the Products and Services may be subject to trade control laws and
+regulations, and Customer will comply with them.
+14.14 Adobe Partner Transactions. If Customer orders Products and Services from an Adobe Partner under a Sales Order
+with the Adobe Partner (“Customer Order”): (A) the terms of this Agreement apply to Customer’s use of the
+Products and Services; and (B) the Adobe Partner is solely responsible for any variations orinconsistencies between
+the Customer Order and the order between the Adobe Partner and Adobe for the transaction. If Customer does
+not accept the terms of this Agreement, then Customer must not use, or must immediately cease using, the
+relevant Products and Services.
+14.15 U.S. Government Licensing. For US Government end users: Customer acknowledges that Products and Services
+are “Commercial Item(s),” as that term is defined at 48 C.F.R. section 2.101, consisting of “Commercial Computer
+Software” and “Commercial Computer Software Documentation,” as the terms are used in 48 C.F.R. section 12.212
+or 48 C.F.R. section 227.7202, as applicable. Customer agrees, consistent with 48 C.F.R. section 12.212 or 48 C.F.R.
+sections 227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial
+Computer Software Documentation are being licensed to U.S. Government end users (A) only as Commercial Items;
+and (B) with only those rights as are granted to all other end users pursuant to the terms and conditions herein.
+Unpublished rights are reserved under the copyright laws of the United States.
