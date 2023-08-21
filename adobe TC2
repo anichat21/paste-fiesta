@@ -1,0 +1,459 @@
+PRODUCT DESCRIPTIONS AND METRICS
+PSLT – Adobe Creative Cloud, Adobe Document Cloud, and Adobe Substance 3D (2023v1) Page 1 of 11
+PSLT – Adobe Creative Cloud, Adobe Document Cloud,
+and Adobe Substance 3D (2023v1)
+References to “On-premise Software” and “On-demand Services” in this PSLT are to Products and Services of
+Adobe Creative Cloud, Adobe Document Cloud, or Adobe Substance 3D. Adobe Document Services (DC APIs) and
+Adobe Acrobat Sign are governed under separate PSLTs.
+PRODUCT SPECIFIC LICENSING TERMS FOR ON-PREMISE SOFTWARE
+1. Multiple-User Access.
+1.1 If On-premise Software licensed on a per-User basis is installed on a Computer accessible by more than
+one User, then the total number of Users (not the concurrent number of users) capable of accessing
+the On-premise Software must not exceed the license quantity stated in the Sales Order.
+1.2 Customer must not install or access (either directly or through commands, data, or instructions) the
+On-premise Software for operations not initiated by an individual User (e.g., automated server
+processing or robotic process automation, whether deployed on a client or server) unless permitted in
+a Sales Order.
+2. Activation; Installation.
+2.1 Activation Limits. If Customer licenses the On-premise Software on a per-User basis, each User may
+activate the On-premise Software on up to two Computers at a time but must not use the On-premise
+Software on the two Computers simultaneously.
+2.2 Installation Limits. If Customer licenses the On-premise Software on a per Computer basis, then
+Customer may install each licensed copy of the On-premise Software only on one desktop computer at
+a time.
+3. Updates. Customer agrees it may receive updates from Adobe as part of Customer’s use of the On-premise
+Software. Unless configured by Customer to prevent automatic updates, some On-premise Software may
+automatically download and install updates on Customer’s system from time to time.
+4. Embedded Use. Customer may (A) embed any software made available to Customer through the On-premise
+Software (including runtimes such as Adobe Runtime, add-ins, and utilities provided with the On-premise
+Software, for example as part of an application that is packaged to run on the Apple iOS or Google Android™
+operating systems) as part of developer applications, electronic documents, or content; (B) embed and distribute
+such software pursuant to a separate written agreement; and (C) permit use of such software only in connection
+with such application, document, or content. No other embedding rights are implied or permitted.
+5. Serialized Deployment. On-premise Software releases specific to serial number deployment may not have the
+same feature set and capabilities as the corresponding On-premise Software releases specific to named user
+deployment. For clarity, Customers using serial number deployment for Creative Cloud Products and Services do
+not have access to On-premise Software released to named user deployment after October 2018.
+6. On-premise Software Restrictions. Unless Adobe is required under local law to obtain separate consent for
+installing the Adobe Genuine Service, Customer acknowledges that installation or updates of the On-premise
+Software may result in the download of the “Adobe Genuine Service,” a program that first checks whether the
+On-premise Software is genuine and, separately, may also check for the presence of other Adobe software and, if
+PSLT – Adobe Creative Cloud, Adobe Document Cloud, and Adobe Substance 3D (2023v1) Page 2 of 11
+found, detects and identifies whether there are any copies of counterfeit, stolen, or otherwise unlicensed
+(collectively, “non-genuine”) Adobe software or of software that Adobe no longer supports. The On-premise
+Software and Adobe Genuine Service may collect and transmit information to Adobe as described
+at https://www.adobe.com/genuine.html or its successor website. A determination by Adobe that any Adobe
+software is non-genuine or is unsupported may result in the Adobe Genuine Service showing Customer messages
+to notify Customer of non-genuine or unsupported Adobe software and the appropriate follow up actions. Use of
+non-genuine Adobe software may result in partial or complete inoperability, suspension, or termination of
+Customer’s use of the non-genuine Adobe software.
+7. Use of Products and Services in Mainland China. If Customer has Users in Mainland China, such Users are
+permitted to activate and use only the following Products and Services: “Creative Cloud for Enterprise Offering in
+China,” “Acrobat for Enterprise Offering in China,” and “Substance 3D Collection Offering in China” (collectively,
+“China Offering”). Users in Mainland China must not access or use any Products and Services licensed for use by
+Customer’s Users outside of mainland China. Customer is not permitted to use the China Offering, or any
+component thereof, anywhere outside of mainland China. All warranties provided by Adobe to Customer in this
+Agreement are void for any version of the Products and Services activated by Users in Mainland China that is
+not the China Offering and any use of the China Offering by Users outside of Mainland China.
+PRODUCT SPECIFIC LICENSING TERMS FOR ON-DEMAND SERVICES
+8. License Restrictions. In connection with Customer’s use of the On-demand Services, Customer must not:
+8.1 place advertisement of any products or services through the On-demand Services;
+8.2 use any data mining or similar data gathering and extraction methods, including data scraping for
+machine learning or other purposes;
+8.3 circumvent any access or use restrictions; or
+8.4 impersonate any person or entity, or falsely state or otherwise misrepresent Customer’s affiliation with
+a person or entity.
+9. Storage and Retention. Adobe will store Customer Content during the License Term up to any storage limit
+specified in the admin console. Adobe may create reasonable storage limits, such as limits on file size, storage
+space, and other technical limits. If Customer exceeds those limits, Adobe will make reasonable efforts to notify
+Customer to permit transition of Customer Content prior to deletion.
+10. Security.
+10.1 Compliance Certifications. On-demand Services’ compliance certifications can be found at
+https://www.adobe.com/trust/compliance/compliance-list.html or its successor website. If Customer
+Content is required to be processed or stored in accordance with the requirements of specific
+compliance certifications, standards, or regulations (“Compliance Measures”), Customer may use the
+On-demand Services to process or store such Customer Content only if the relevant Compliance
+Measures are listed at the website above. For the listed Compliance Measures, the On-demand Services
+may be used to assist Customer to meet Customer’s legal obligations, including without limitation, use
+of service providers. Customer is solely responsible for (a) verifying that the On-demand Services meet
+all requirements applicable to Customer Content, and (b) complying with any legal obligations
+applicable to Customer Content.
+10.2 Data Centers. Customer is solely responsible for (a) verifying that the On-demand Services meet all
+requirements applicable to Customer Content (including requirements for data center location), and
+(b) complying with any legal obligations applicable to Customer Content.
+11. Sensitive Personal Data. The Sensitive Personal Data restriction (e.g., section 6.3(C) of the General Terms 2020v1)
+does not apply to the contents of files Customer uploads to, or processes with, the Document Cloud On-demand
+Services. In connection with Customer’s use of the Document Cloud On-demand Services:
+PSLT – Adobe Creative Cloud, Adobe Document Cloud, and Adobe Substance 3D (2023v1) Page 3 of 11
+11.1 Customer is solely responsible for compliance with any applicable privacy laws and regulations
+governing the processing of Sensitive Personal Data. Adobe may, as your service provider, provide
+some functionality within the On-demand Services to help you comply with requirements, but
+Customer is responsible for implementing compliant functionality;
+11.2 Customer is solely responsible for compliance with the Children’s Online Privacy Protection Act of 1998
+(“COPPA”), if applicable, including not collecting information from children under the age of thirteen
+without first obtaining parental consent;
+11.3 Customer must not collect, process, or store any protected health information, electronic or otherwise,
+pursuant to the Health Insurance Portability and Accountability Act (“HIPAA”) and the Health
+Information Technology for Economic and Clinical Health (“HITECH”); and
+11.4 Customer is solely responsible for compliance with the Payment Card Industry Data Security Standard
+(“PCI DSS”), if applicable. PCI DSS prohibits using the On-demand Services to store Sensitive
+Authentication Data, including Card Verification Code or Value after authorization, even if encrypted.
+Capitalized terms in this section are defined in the PCI DSS.
+12. Generative AI. Adobe may provide Customer with access to generative AI features as part of the On-demand
+Services.
+12.1 Generating Content. To use generative AI features, Customer may be asked to input or upload content,
+such as an audio file, video file, document, image, text, or a combination of such content (collectively,
+“Input”). The Input will be used by the On-demand Services to generate an output, such as an image,
+text, text effects, vector graphic, audio file, texture, or video file, which will be provided within the Ondemand Services (“Output”). The Input and Output are Customer Content (not Content Files or Sample
+Files) and all provisions governing Customer Content in this Agreement apply to the Input and Output.
+The generative AI features, Input, and Output must be used in accordance with this Agreement. Adobe
+reserves the right to throttle, limit, disable, suspend, or terminate Customer’s right to use or access the
+generative AI features as described in the Sales Order or in Documentation, as applicable.
+12.2 Output. The restrictions described in section 26 (Restriction on AI/ML) herein apply to Output. The
+Output may not be unique and other users of generative AI features may generate the same or similar
+Output.
+CONFIDENTIAL INFORMATION AND UNLAWFUL CONTENT
+13. Confidential Information. Confidential Information does not include information that comprises Unlawful Content
+subject to a legally required reporting obligation (e.g., child exploitation material) and any information provided
+in connection with such a report that is required or authorized by law (e.g., User name, email address, upload
+timestamp, and IP address).
+14. Unlawful Content. If User uploads or stores Unlawful Content in an account, Adobe may suspend services, remove
+the Unlawful Content, and report the Unlawful Content and associated information (e.g., User name, email
+address, upload timestamp, and IP address) as required or authorized by law.
+PRODUCT SPECIFIC LICENSING TERMS FOR ON-PREMISE SOFTWARE AND ON-DEMAND SERVICES
+15. Renewal. Customer’s license to Products and Services expires at the end of the then-current License Term. Upon
+renewal, Customer’s license to Products and Services will be for version(s) of Products and Services available at
+the time of renewal.
+16. Administrators. Customer authorizes its administrator(s) to act on its behalf, including to manage access to the
+Products and Services for the Users, to assign other Users an administrator role, and to have control over its Users’
+content and information. Customer is responsible for the administrator’s actions and omissionsin connection with
+the account(s).
+PSLT – Adobe Creative Cloud, Adobe Document Cloud, and Adobe Substance 3D (2023v1) Page 4 of 11
+17. User-Generated Content. The On-premise Software or On-demand Services may contain user-generated content
+that is: (A) inappropriate for minors; (B) illegal in some countries; or (C) inappropriate in certain circumstances. If
+Customer wants to prevent viewing of or access to user-generated content, it should either (1) disable On-demand
+Services access in the Creative Cloud Packager, where that functionality is made available; or (2) block access to
+the On-demand Services via its network firewall. Adobe disclaims liability for all user-generated content available
+via the On-demand Services or On-premise Software.
+18. Sample Files. Customer may use Sample Files only for the purpose for which they were provided. “Sample Files”
+means the Adobe-provided audio, visual, video, or other content files for use in tutorials, demonstrations, and for
+other trial purposes, which may be identified as sample files. Customer may not distribute Sample Files in any way
+that allows a third party to use, download, extract, or access the Sample Files as a stand-alone file, and the
+Customer may not claim any rights in the Sample Files.
+19. Content Files. “Content Files” means assets provided by Adobe as part of the On-premise Software or On-demand
+Services.
+19.1 License. Unless Documentation or specific licenses state otherwise, subject to the General Terms,
+(including the “License Conditions” provision and other restrictions set forth in the General Terms),
+Adobe hereby grants Customer a non-exclusive, non-sublicensable, and non-transferable license to use
+the Content Files to create files for Customer’s use into which the Content Files are embedded (“End
+Use”). Customer may modify the Content Files prior to embedding them in the End Use. Customer may
+reproduce and distribute Content Files only in connection with Customer’s End Use; however, under
+no circumstances may Customer distribute the Content Files on a stand-alone basis outside of the End
+Use.
+19.2 Reservations and Claims. Adobe does not guarantee the accuracy of Content Files, including any
+related titles, descriptions, keywords, or other metadata. If Customer has actual knowledge, or if
+Customer or Adobe reasonably believe, that a Content File may be subject to a third-party Claim, then
+Adobe may instruct Customer to cease all use of that Content File, and Customer must promptly comply
+with Adobe’s instructions. Customer will hold Adobe harmless, defend at Adobe’s request, and pay, at
+Customer’s expense, any third-party Claim against Adobe arising out of or relating to Customer’s End
+Use in violation of the terms of this Agreement.
+19.3 Adobe Stock Assets. Unless otherwise expressly permitted under the Adobe Stock PSLT, Content Files
+that are also Adobe Stock assets are subject to the following additional terms:
+(A) Customer must not: (1) use any Adobe Stock asset in a way that a reasonable person could
+consider unflattering, immoral, or controversial; or (2) incorporate any Adobe Stock asset into
+merchandise or template files intended for sale or distribution unless the End Use is an original
+work of authorship;
+(B) Customer must not incorporate any Adobe Stock asset that comes with a “standard” license into
+an End Use that is printed or viewed more than 500,000 times (excluding web and mobile
+displays); and
+(C) Adobe may impose technical limitations on downloading, exporting, or sharing of Adobe Stock
+assets that come with a “limited” license, including limiting use of the Adobe Stock assets to
+within authorized Adobe Products and Services, and Customer must not attempt to circumvent
+these technical limitations.
+20. Font Software. If the On-premise Software includes font software (except for fonts available via the Adobe Fonts
+Service, which is governed by section 34 (Adobe Fonts Service)), then this section 20 (Font Software) applies.
+20.1 Customer may provide font(s) used for a particular file to a commercial printer or other service bureau,
+and the service bureau may use such font(s) to process that file, provided the service bureau has a valid
+license to use that particular font software.
+PSLT – Adobe Creative Cloud, Adobe Document Cloud, and Adobe Substance 3D (2023v1) Page 5 of 11
+20.2 Customer may embed copies of the font software into electronic documents for the purpose of printing
+and viewing the documents. No other embedding rights are implied or permitted under this license.
+20.3 As an exception to the above, the fonts listed in the http://www.adobe.com/go/restricted_fonts are
+included with the On-premise Software only for purposes of operation of the On-premise Software.
+For clarity, the listed fonts are not licensed under these terms. Customer may not copy, move, activate,
+use, or allow any font management tool to copy, move, activate, or use, the listed fonts in or with any
+software application, program, or file other than the Software.
+20.4 Some fonts distributed by Adobe with the On-premise Software may be open-source fonts. Customer’s
+use of these open-source fonts will be governed by the applicable license terms available at
+http://www.adobe.com/go/font_licensing.
+21. Third-Party Notices. The creators or third-party licensors of certain public standards and publicly available code
+(“Third-Party Materials”) require that certain notices be passed through to the end users of the On-premise
+Software (e.g., notices relating to AVC import and export functionality) and On-demand Services. These third-party
+notices are located at http://www.adobe.com/go/thirdparty (or a successor website thereto). The inclusion of
+these third-party notices does not limit Adobe’s obligations to the Customer for Third-Party Materials integrated
+into the On-premise Software and On-demand Services.
+22. Account Activity. Each User has an account associated with his or her login ID. Customer is responsible for all
+activity that occurs via a User’s account(s).
+23. Modification. Adobe reserves the right to add, modify, update, or discontinue features or capabilities of Onpremise Software or On-demand Services. Adobe will make reasonable efforts to notify Customer of any (a)
+discontinuation, or (b) modification or update that, in Adobe’s reasonable discretion, is detrimental or results in a
+diminishment of value to Customer. Adobe may provide Customer with a pro-rata refund of prepaid fees or with
+a service similar to any discontinued On-demand Service.
+24. User License Transfers. Customer may deploy Products and Services licensed on a per-User basis only to Users
+through a unique login ID and password. Customer may not allow the use of the same login ID by two or more
+Users, nor may Customer deploy the Products and Services in any shared license model or similar license
+deployment (including, but not limited to, floating, generic user, leased, or shift license deployment). Customer
+may transfer a license from one User to another User without being deemed an additional deployment, subject
+to any reporting requirements that may be contained in a Sales Order, and provided Customer de-installs the
+Product and Service from the Computer of the previous User, and the new User then uses a new ID and password.
+25. Prerelease or Beta Version.
+25.1 Adobe may provide access to On-premise Software or On-demand Services, or a feature of the Onpremise Software or On-demand Services, as a no-cost prerelease, early access, or beta version (“Beta
+Version”). A Beta Version does not represent the final product and may contain bugs. Adobe may
+choose not to release a commercial version of the Beta Version.
+25.2 Adobe provides the Beta Version on an “AS-IS” basis. Adobe, its Affiliates, and third-party providers
+disclaim and make no representation or warranty of any kind, express, implied or statutory, including
+representations, guarantees or warranties of merchantability, fitness for a particular purpose, title,
+non-infringement, or accuracy. Any warranties specified in the Agreement or other sections of this
+PSLT do not apply to the Beta Version. Adobe further disclaims any warranty that (A) the Beta Version
+will meet Customer’s expectations, requirements, or will be constantly available, uninterrupted, timely,
+secure, or error-free; (B) the results obtained from the use of the Beta Version will be effective,
+accurate, or reliable; or (C) any errors or defects in the Beta Version will be corrected. Adobe disclaims
+all liability of any kind for Customer’s use of the Beta Version. Customer must promptly cease using the
+Beta Version and destroy all copies of the Beta Version if Adobe requests the Customer to do so. Adobe
+may develop, modify, improve, support, customize, and operate its products and services based on
+Customer’s use, as applicable, of any Beta Versions.
+PSLT – Adobe Creative Cloud, Adobe Document Cloud, and Adobe Substance 3D (2023v1) Page 6 of 11
+26. Restriction on AI/ML. Customer will not, and will not allow third parties to, use the Products and Services (or any
+content, data, output, or other information received or derived from the Products and Services) to directly or
+indirectly create, train, test, or otherwise improve any machine learning algorithms or artificial intelligence
+systems, including any architectures, models, or weights.
+PRODUCT SPECIFIC LICENSING TERMS FOR ADOBE CREATIVE CLOUD
+27. Free Version. Adobe may provide, at no additional cost, access to Adobe software or technology services hosted
+by or on behalf of Adobe and provided to Customer as a shared instance (“Free Version”). At its option, Customer
+may use the Free Version, subject to the terms of this Agreement, applicable PSLTs, and any additional
+clickthrough terms. Notwithstanding the foregoing, the Free Version will be provided to Customer on an “AS-IS”
+basis without warranty and is not Indemnified Technology.
+28. After Effects Render Engine. Customer may install an unlimited number of Render Engines on Computers within
+its intranet if at least one Computer within its intranet has the full version of the Adobe After Effects software
+installed. The term “Render Engine” means an installable portion of the On-premise Software that enables the
+rendering of After Effects projects but does not include the complete After Effects user interface.
+29. Adobe Runtime. If the Creative Cloud On-premise Software includes Adobe AIR, Adobe Flash Player, or portion(s)
+of the On-premise Software embedded in a presentation, information, or materials created and generated using
+the On-premise Software (each an “Adobe Runtime”), then distributions of the resulting output file or developer
+application on a non-PC device may require Customer to obtain licenses and be subject to additional royalties, for
+which Customer is solely responsible.
+30. Adobe Media Encoder. Customer may install Adobe Media Encoder (“AME”) on a Computer within its intranet
+solely for encoding, decoding, or transcoding projects created by licensed instances of the On-premise Software
+running on other Computers within its intranet, provided that the number of installations of AME does not exceed
+the number of licenses purchased for the On-premise Software. Customer may not use the foregoing
+implementation of AME to offer, use, or permit the use of AME (A) with software other than the On-premise
+Software; (B) as part of a hosted service; (C) on behalf of any third party; (D) on a service bureau basis; or (E) for
+operations that are not initiated by an individual User, except Customer may automate the operation that starts
+the process of encoding, decoding, and transcoding projects using AME within its intranet.
+31. Collaboration Services. If Customer is invited by another individual or organization that is using Adobe products
+and services under a separate agreement with Adobe (“Third-Party Account Holder”) to Share or edit Customer
+Content in a document, space, library, canvas or other collaboration environment controlled by the Third-Party
+Account Holder (each a “Collaboration Space”), Customer acknowledges and agrees that the Third-Party Account
+Holder is solely responsible for implementing the settings, including commenting, editing, access, publication and
+ownership settings, for all content, including Customer Content, in the Collaboration Space. The Third-Party
+Account Holder will be able to restrict or terminate Customer’s access to the Collaboration Space at any time. If
+Customer does not want the Third-Party Account Holder to control Customer Content, Customer should not Share
+or edit Customer Content in a Collaboration Space and should maintain back-up copies of Customer Content.
+Adobe has no responsibility or liability for any loss, use or misuse of Customer Content in a Collaboration Space.
+Customer acknowledges and agrees that (A) Adobe will not be a party to any disputes between Customer and any
+Third-Party Account Holder; (B) Customer will not seek to make Adobe a party to any such dispute, and (C) Adobe
+will have no liability or obligation to either Customer or a Third-Party Account Holder for any content, including
+Customer Content, subject to such a dispute. “Share” means to email, post, transmit, stream, upload, or otherwise
+make Customer Content available to a Third-Party Account Holder or other third party through Customer’s use of
+the On-demand Services.
+32. Adobe Express and Adobe Spark.
+PSLT – Adobe Creative Cloud, Adobe Document Cloud, and Adobe Substance 3D (2023v1) Page 7 of 11
+32.1 Third-Party Services. Adobe Express and Adobe Spark may include features that allow Customer to
+search for content from independent third-party services from within the Adobe Express and Adobe
+Spark user interfaces and import such content directly into Customer Projects (defined below). Adobe
+Express and Adobe Spark provide access to such third-party services as a convenience only. Some thirdparty services or content may be offered for personal, non-commercial use only. For more information,
+please visit Image Use Rights. All other requirements in the General Terms regarding use of third-party
+providers apply.
+32.2 Personal Information of Visitors; Customer Responsibilities. Where Customer is given the option to
+use third-party services (e.g., Google Analytics) to collect personal information from visitors to
+Customer Projects, Adobe is not involved in the collection of such personal information and does not
+have visibility of or into the data such services may collect. As between Adobe and Customer, Customer
+is solely responsible for all personal information that Customer may collect from visitors to Customer
+Projects when such visitors view, access, or use Customer Projects. “Customer Projects” mean the
+projects Customer creates using Adobe Express and Adobe Spark such as videos, web pages, and
+graphics. Customer must comply with all applicable data security and privacy laws applicable to any
+personal information of visitors to Customer Projects and Customer’s indemnity obligations under the
+Agreement shall apply to breach thereof.
+33. Frame.io.
+33.1 Access. Access to Frame.io On-demand Services may be provided using a different login/ID details from
+those used for other On-Demand Services and Managed Services.
+33.2 Sensitive Personal Data. The Sensitive Personal Data restriction (e.g., section 6.3(C) of the General
+Terms 2020v1) does not apply to Customer’s use of the Frame.io On-demand Services. In connection
+with Customer’s use of the Frame.io On-demand Services, Customer may provide Sensitive Personal
+Data to the Frame.io On-demand Services within Customer Content it uploads to the Frame.io Ondemand Services (as distinct from information provided for purposes of account creation); provided,
+however, that:
+(A) Customer has obtained all necessary consents to do so;
+(B) the provision of such Sensitive Personal Data does not itself subject Adobe or any Adobe Affiliate to
+the requirements of the Gramm-Leach-Bliley Act of 1999 or the Health Insurance and Portability Act
+of 1996 (“HIPAA”), and
+(C) Customer shall in no event provide Sensitive Personal Data that constitutes Protected Health
+Information under HIPAA. Except for the purchase of the Frame.io On-Demand Services, Customer
+shall not include credit card numbers or authentication data in any Customer Content.
+33.3 Outsourcing and Third-Party Access. Customer may allow a third-party individual or organization
+(“Third Party”) to operate, use or access the Frame.io On-demand Services in connection with
+Customer’s use of the Frame.io On-Demand Services in order to Share Customer Content with such
+third party. If Customer permits such access, Customer is solely responsible for implementing the
+settings, including commenting, editing, access, publication and ownership settings, for all content,
+including Customer Content. If Customer does not want the Third Party to modify, comment on, or
+engage with Customer Content, Customer should not Share Customer Content with such Third Party,
+or should ensure that the permission settings are properly tailored to the rights Customer authorizes
+for such Third Party.
+PRODUCT SPECIFIC LICENSING TERMS FOR ADOBE CREATIVE CLOUD AND ADOBE SUBSTANCE 3D
+34. Adobe Fonts Service.
+34.1 Desktop Publishing.
+PSLT – Adobe Creative Cloud, Adobe Document Cloud, and Adobe Substance 3D (2023v1) Page 8 of 11
+(A) Customer may use Desktop Fonts that have been synchronized to Customer’s Computer to
+design and develop Customer Documents. Customer may embed and distribute Desktop Fonts
+within Customer Documents so that when others view, print, or interact with Customer
+Documents they will see Customer’s content displayed with Desktop Fonts as Customer
+intended; and
+(B) Customer may only embed those characters (i.e., subset) of Desktop Fonts that are necessary to
+display, print, and view the Customer Document.
+34.2 Website Publishing. Customer may use Web Fonts to design and develop Customer Sites and to create
+a Web Project for such purposes. Customer may reference or encode a link to the Web Project within
+a Customer Site design so that visitors to the Customer Site will see the content displayed with Web
+Fonts as intended.
+34.3 Obligations, Limitations, Restrictions, and Prohibited Uses of the Licensed Fonts.
+(A) Continuing access to the Licensed Fonts. Ongoing access to the Licensed Fonts may require a
+recurring Internet connection to provision, activate, or synchronize the Licensed Fonts, or to
+authorize, renew, or validate Customer’s access to the Licensed Fonts. In some cases, the
+Licensed Fonts that Customer designs into Customer Documents or Customer Sites (collectively,
+“Media”) will be viewable by Customer and by third parties that access or view the Media only
+for as long as Customer maintains an uninterrupted subscription plan (including payment of all
+subscription plan fees, if applicable).
+(B) Prohibited Uses of the Licensed Fonts. Customer is expressly prohibited from:
+(1) allowing external output of the Licensed Fonts from within Customer’s Media, or
+distributing any portion of the Licensed Fonts on a standalone basis or in any way that
+would allow another person to use the Licensed Fonts;
+(2) adding any functionality to, or otherwise changing, altering, adapting, translating,
+converting, modifying, creating, or making or having made any derivative works of any
+portion of the Licensed Fonts;
+(3) attempting to copy, move, or remove Licensed Fonts from a Web Project or from the
+locations or folders on Customer’s Computer where Adobe has installed such Desktop
+Fonts, or otherwise attempting to access or use the Licensed Fonts other than by
+subscribing directly to the On-demand Services using the means Adobe provides for such
+purposes;
+(4) using a Web Project in connection with any published content Customer creates for its
+own customers or clients, or with any published content other than a Customer Site;
+(5) using any portion of the Licensed Fonts in a Reseller Platform without a written license
+from Adobe;
+(6) rendering, manufacturing, or capturing glyphs, in whole or in part, to be used as a font or
+typesetting system; and
+(7) hosting Web Fonts for its own customers or clients, or reselling the Licensed Fonts to
+them.
+The prohibited uses above may not apply to certain components included with the Desktop Fonts that
+are under an open-source license.
+34.4 Definitions.
+(A) “Customer Document(s)” means any form of digital document, whether commercial or noncommercial, whether or not publicly distributed, that uses Desktop Fonts, whether or not
+embedded, including for print, view or display by anyone accessing the Customer Documents.
+PSLT – Adobe Creative Cloud, Adobe Document Cloud, and Adobe Substance 3D (2023v1) Page 9 of 11
+(B) “Customer Site(s)” means websites, webpages, or webpage content that Customer designs,
+develops, or creates, that is published, and that integrates, accesses, and publicly displays Web
+Fonts.
+(C) “Desktop Fonts” means the fonts or font families that Adobe makes available through the Ondemand Services for Customer to synchronize to Customer’s Computer solely for desktop
+publishing purposes (i.e., to create Customer Documents).
+(D) “Licensed Fonts” means the Desktop Fonts and Web Fonts that Adobe makes available to
+Customer through the On-demand Services.
+(E) “Reseller Platform” means any service that allows its customers or clients to choose fonts for
+websites or other products that it provides on their behalf (e.g., blogging platforms, social
+network profiles, etc.).
+(F) “Web Fonts” means the fonts or font families that Adobe makes available to Customer through
+the On-demand Services which Customer may use to create a Customer Site.
+(G) “Web Project(s)” means the software package created by Customer through the On-demand
+Services that comprises Customer’s preferred settings, Licensed Fonts choices, formats, style
+sheets, and other software code, along with any code that wraps and identifies each Licensed
+Font.
+34.5 Creative Cloud Customer Fonts.
+(A) For any font or font file a Customer uploads or submits to the On-demand Services (“Creative
+Cloud Customer Font”), Customer (1) retains all rights to the unmodified Customer Fonts; (2)
+acknowledges that enabling the display of any Creative Cloud Customer Font with the OnDemand Services may require Adobe to use Adobe Technology, including its proprietary fontoptimization technology, and that Adobe retains all rights to such Adobe Technology; and (3)
+acknowledges that if Adobe is informed by a foundry that Customer does not have sufficient
+rights to a Creative Cloud Customer Font, Adobe may remove that Creative Cloud Customer
+Font from Customer's account and from the Customer Content that uses that Creative Cloud
+Customer Font. Customer acknowledges that if Adobe removes the Creative Cloud Customer
+Fonts from Customer’s account, the On-demand Services, or the Customer Content that uses
+the Creative Cloud Customer Fonts, the display of Customer Content may change, and Adobe
+shall have no liability in connection with the removal. Creative Cloud Customer Fonts are
+considered Customer Content under the Agreement.
+(B) Notwithstanding the effect of termination or expiration of this Agreement as described in the
+General Terms, Customer’s access to the Creative Cloud Customer Fonts stored within the Ondemand Services may terminate immediately upon the termination or expiration of the
+Agreement.
+PRODUCT SPECIFIC LICENSING TERMS FOR ADOBE DOCUMENT CLOUD
+35. Digital Certificates. The On-premise Software or On-demand Services may include technology that allows
+Customer to apply digital signatures to PDF documents through the use of digital certificates. Customer may not
+access, attempt to access, circumvent, control, disable, tamper with, remove, use, or distribute such certificates
+or other corresponding encryption keys for any purpose. Customer will rely on its own legal counsel and
+determinations as to the use and viability of electronic signatures in a particular country or for a particular use.
+36. Adobe Acrobat Sign. On-premise Software and On-demand Services licensed under this PSLT do not include any
+Adobe Acrobat Sign entitlements, features or capabilities. Access to Acrobat Sign entitlements requires the
+purchase of Acrobat Sign offerings, which are governed under separate terms and conditions.
+PSLT – Adobe Creative Cloud, Adobe Document Cloud, and Adobe Substance 3D (2023v1) Page 10 of 11
+PRODUCT SPECIFIC LICENSING TERMS FOR ADOBE SUBSTANCE 3D ASSETS AND SUBSTANCE 3D AUTOMATION
+TOOLKIT
+37. Definitions.
+37.1 "Larger Work" means a new work of authorship that incorporates an unmodified Substance 3D
+Asset.
+37.2 "Modified Work" means a new work of authorship created, at least in part, by modifying a
+Substance 3D Asset.
+37.3 “Substance 3D Asset(s)” means Substance 3D assets (including, but not limited to, materials,
+textures, models, lights, atlases, and decals) that are made available to Customers on the “Substance
+3D Assets” (or “3D Assets”) webpage, the Substance Launcher, Creative Cloud Desktop, or any other
+Adobe-owned properties where such assets are clearly identified as “Substance 3D Assets” or “3D
+Assets”.
+38. Substance 3D Automation Toolkit. For the avoidance of doubt, the terms of the Agreement apply to Customer’s
+use of the Substance 3D Automation Toolkit.
+39. Ownership. Adobe and itslicensorsretain allright, title, and interest in and to the Substance 3D Assets. Substance
+3D Assets are deemed to be Adobe Technology. Customer retains all right, title, and interest in Larger Works and
+Modified Works, subject to Adobe’s underlying intellectual property rights in the Substance 3D Assets.
+40. License to the Substance 3D Asset(s). Subject to the restrictions in this Agreement, Adobe grants Customer a nonexclusive, limited, revocable, non-transferable, non-sublicensable (except as set forth in section 40.4), worldwide,
+perpetual license to:
+40.1 use, reproduce, archive, and modify the Substance 3D Asset(s) for internal business purposes only;
+40.2 create derivative works based on the Substance 3D Asset(s) solely in the form of a Modified Work or a
+Larger Work;
+40.3 reproduce, publicly display, publicly perform, and distribute the Substance 3D Assets(s) only as
+modified into a Modified Work or as incorporated into a Larger Work; and
+40.4 sublicense the rights in the Modified Work(s) or Larger Work(s).
+41. Substance 3D Asset(s) Usage in China. Customer is permitted to use Substance 3D Assets in China. Adobe
+disclaims all representations and warranties regarding: Customer’s ability to access or use Substance 3D Assets
+from Computers in China. Customer may not make a claim for breach of the performance warranty or breach of
+contract due to Customer’s inability to access or use Substance 3D Assets from Computers in China, or for
+performance issues caused by the restrictions on Substance 3D Assets in China.
+42. Restrictions. The following license restrictions apply to Substance 3D Assets:
+42.1 Customer must not:
+(A) publicly display, publicly perform, distribute, or sublicense a Substance 3D Asset if it has not
+been (1) modified into a Modified Work; or (2) incorporated into a Larger Work;
+(B) use the Substance 3D Asset(s) in any way that allows a third party (other than a third-party
+contractor as permitted in the Agreement) to use, download, extract, or access the Substance
+3D Asset(s) on a stand-alone basis;
+(C) take any action in connection with the Substance 3D Asset(s) that infringes the intellectual
+property or other rights of any person or entity, such as the moral rights of the creator of the
+Substance 3D Asset(s) or the rights of any person who, or any person whose property, appears
+in the Substance 3D Asset(s);
+(D) incorporate the Substance 3D Asset(s) into a trademark, logo, or servicemark;
+PSLT – Adobe Creative Cloud, Adobe Document Cloud, and Adobe Substance 3D (2023v1) Page 11 of 11
+(E) use the Substance 3D Asset(s) in a pornographic, defamatory, or otherwise unlawful manner; or
+(F) engage in any activity that interferes with or disrupts the Substance 3D Assets, including its
+servers and connected networks.
+42.2 Customer may only distribute the Substance 3D Asset(s) as incorporated into Customer Contentif (A)
+the Customer Content, without inclusion of the Substance 3D Asset(s), would qualify as an original work
+of authorship; and (B) the primary value of the Customer Content does not lie with the Substance 3D
+Asset(s) itself.
+43. Effect of Termination. Upon expiration of the Agreement, Customer may continue to use Substance 3D Assets
+that Customer has downloaded and paid for prior to expiration , subject to its compliance with the Agreement. If
+Adobe terminates (i) the Agreement or (ii) the license in section 40 (License to the Substance 3D Asset(s)) due to
+a breach of section 42 (Restrictions) by Customer or its representatives, Customer must: (A) stop using the
+Substance 3D Assets to create any new Modified Works or Larger Works, and (B) delete any Substance 3D Asset(s)
+in its possession or control.; however, the license in section 40 will survive termination solely with respect to
+Customer’s use of Modified Works or Larger Works that were created prior to termination and used in accordance
+with the Agreement. Adobe is not responsible for maintaining availability of Substance 3D Assets for Customer
+after the expiration or termination date of the Agreement. Customer must not sublicense or distribute any
+Modified Works or Larger Works that were created or used in violation of section 42 (Restrictions).
