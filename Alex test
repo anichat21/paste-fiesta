@@ -1,0 +1,31 @@
+import bpy
+
+# Dictionary to store the state of the collections
+collection_states = {}
+
+def switch_collections_callback(scene):
+    for collection in bpy.context.scene.collection.children:
+        if collection.name.startswith("switch_"):
+            active_child = None
+            
+            # Find the active child collection
+            for child_collection in collection.children:
+                if not child_collection.hide_viewport:
+                    active_child = child_collection
+            
+            # If an active child collection exists, save its state in the dictionary
+            if active_child:
+                collection_states[collection.name] = active_child.name
+            
+            # Hide all child collections
+            for child_collection in collection.children:
+                child_collection.hide_viewport = True
+            
+            # Reactivate the child collection stored in the dictionary
+            if collection.name in collection_states:
+                next_active_child = collection.children.get(collection_states[collection.name])
+                if next_active_child:
+                    next_active_child.hide_viewport = False
+
+# Add the callback to the dependency graph update
+bpy.app.handlers.depsgraph_update_post.append(switch_collections_callback)
