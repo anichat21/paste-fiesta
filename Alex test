@@ -15,13 +15,16 @@ def switch_collections_callback(scene):
             
             # If an active child collection exists, save its state in the dictionary
             if active_child:
-                collection_states[collection.name] = active_child.name
+                if collection_states.get(collection.name) == active_child.name:
+                    del collection_states[collection.name]
+                else:
+                    collection_states[collection.name] = active_child.name
             
             # Hide all child collections
             for child_collection in collection.children:
                 child_collection.hide_viewport = True
             
-            # Reactivate the child collection stored in the dictionary
+            # Reactivate the child collection stored in the dictionary, if any
             if collection.name in collection_states:
                 next_active_child = collection.children.get(collection_states[collection.name])
                 if next_active_child:
